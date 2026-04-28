@@ -10,8 +10,8 @@ You may know there are other system such Rotector or TASE(The All Seeing Eye), b
 
 TUBARÃO DB is completely different, here's how:
 
-- Collects data from trusted games, based on system-provided logs.
-- Does NOT use selfbot.
+- Collects data from trusted games / servers, based on system-provided logs.
+- Does not use selfbot. All data is inserted by human operators.
 - No mass insert, only with clear evidence.
 
 With this, we have only two status of player: Unknown, Inappopriate.
